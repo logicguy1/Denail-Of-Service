@@ -5,7 +5,7 @@
 <img src=https://img.shields.io/github/forks/logicguy1/Denail-Of-Service?style=flat-square&logo=appveyor&color=blue />
 </p>
 
-# Discord Nitro Generator + Checker
+# Denail of Service script written in python
 <p align="center">
 <img src="example.png" />
 </p>
