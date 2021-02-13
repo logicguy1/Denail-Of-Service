@@ -9,3 +9,13 @@
 <p align="center">
 <img src="example.png" />
 </p>
+
+## Usage
+Download and run `main.py` using the following command:
+```
+python3.8 main.py <target> <threads> <time>
+```
+in linux and on windows
+```
+py -3 main.py <target> <threads> <time>
+```
