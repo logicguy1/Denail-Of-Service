@@ -5,7 +5,7 @@ import time
 import sys
 import os
 
-class DDOS: # Initialise the class
+class DOS: # Initialise the class
     def main(self): # Main function contains the main code
         try: # Check the arguments given with the command
             self.target = str(sys.argv[1])
@@ -65,5 +65,5 @@ class DDOS: # Initialise the class
         print("") # Print a newline at the end
 
 if __name__ == '__main__': # If the file is getting ran directly
-    DDOSClient = DDOS() # Create the ddos client ( Class )
-    DDOSClient.main() # Run the main function
+    DOSClient = DOS() # Create the ddos client ( Class )
+    DOSClient.main() # Run the main function
